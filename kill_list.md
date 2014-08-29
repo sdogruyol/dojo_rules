@@ -1,12 +1,7 @@
-serdar = "Serdar" * 2
-
-class Serdar
-	def initialize
-	end
-end
-
-def something end;
-
-*def+$$$^^^
-
-VARİABLE = '!ÂSDS"""%%%'
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
