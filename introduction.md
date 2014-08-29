@@ -1,4 +1,4 @@
 * Ruby
 * Git
 * JS
-* Killing history using git rebase"
+* Killing history using git rebase
